@@ -1,0 +1,23 @@
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\bin\Debug\net7.0-windows\QUIZ .net Windows forms.exe
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\bin\Debug\net7.0-windows\QUIZ .net Windows forms.deps.json
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\bin\Debug\net7.0-windows\QUIZ .net Windows forms.runtimeconfig.json
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\bin\Debug\net7.0-windows\QUIZ .net Windows forms.dll
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\bin\Debug\net7.0-windows\QUIZ .net Windows forms.pdb
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.Properties.Resources.resources
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.csproj.GenerateResource.cache
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.AssemblyInfoInputs.cache
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.AssemblyInfo.cs
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.csproj.CoreCompileInputs.cache
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.dll
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\refint\QUIZ .net Windows forms.dll
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.pdb
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ .net Windows forms.genruntimeconfig.cache
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\ref\QUIZ .net Windows forms.dll
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.frmP1.resources
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.frm_P2.resources
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.Form2.resources
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.frmResultado.resources
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.frmin.resources
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.Form4.resources
+E:\C#\QUIZ .net Windows forms\QUIZ .net Windows forms\obj\Debug\net7.0-windows\QUIZ_.net_Windows_forms.Form1.resources
